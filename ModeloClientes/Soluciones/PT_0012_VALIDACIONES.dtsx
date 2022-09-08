@@ -109,7 +109,7 @@
         DTS:DataType="8">Dev859#e2111</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
-      DTS:Namespace="User"
+      DTS:Namespace="Usuario2"
       DTS:IncludeInDebugDump="2345"
       DTS:ObjectName="VAR_STR_PASSWORD_BIBAOP"
       DTS:DTSID="{A0EFD353-D498-4453-A172-1913544191B1}"
