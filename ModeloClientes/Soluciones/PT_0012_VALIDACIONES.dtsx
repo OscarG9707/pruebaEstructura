@@ -127,7 +127,7 @@
         DTS:DataType="8">Dev859#e2111</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
-      DTS:Namespace="User"
+      DTS:Namespace="Usuario4"
       DTS:IncludeInDebugDump="2345"
       DTS:ObjectName="VAR_STR_SERVER_BIBADW"
       DTS:DTSID="{AC3D98B4-98E3-484E-AF32-EB7D998B7E43}"
