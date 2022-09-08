@@ -100,7 +100,7 @@
   </DTS:ConnectionManagers>
   <DTS:Variables>
     <DTS:Variable
-      DTS:Namespace="User"
+      DTS:Namespace="Usuario"
       DTS:IncludeInDebugDump="2345"
       DTS:ObjectName="VAR_STR_PASSWORD_BIBADW"
       DTS:DTSID="{E50C0DC1-C870-4889-A2F6-731E647B684E}"
